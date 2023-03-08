@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "lm2596-model-dc-dc")(type "KiCad")(uri "D:/kicad_proj/lm2596-model-dc-dc")(options "")(descr ""))
+)

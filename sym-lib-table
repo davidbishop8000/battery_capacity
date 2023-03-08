@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "stepdown_lm2596")(type "Legacy")(uri "D:/kicad_proj/lm2596-model-dc-dc/stepdown_lm2596.lib")(options "")(descr ""))
+)
